@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T14:29:44.487Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="eb_RU_Wh2ieA-v-wi3n-" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T18:11:50.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="GEjmatvk6faY2p0XCngu" version="17.4.1" type="github">
   <diagram id="wdWQQPXWfl0agiIsyt4c" name="Page-1">
-    <mxGraphModel dx="2813" dy="-89" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3985" dy="256" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vg3PmEcYjPq0pjL5DmId-1" value="Merchant" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vg3PmEcYjPq0pjL5DmId-1" value="Merchant" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="-1383" y="1017" width="236" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="vg3PmEcYjPq0pjL5DmId-2" value="&lt;font color=&quot;#e6e6e6&quot;&gt;Identity&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#635BFF;strokeColor=#635BFF;" vertex="1" parent="1">
+        <mxCell id="vg3PmEcYjPq0pjL5DmId-2" value="&lt;font color=&quot;#e6e6e6&quot;&gt;Identity&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="-1101" y="1017" width="236" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="tUbbMsE-jMZ-wQtTJAbV-1" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;img src=&quot;https://imgr.whimsical.com/object/TV1gGPcF61PoZKupWT2gNz&quot;&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="-823.0909090909095" y="1520.2121582031248" width="20" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
