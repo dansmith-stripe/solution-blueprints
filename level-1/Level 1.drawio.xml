@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T19:24:36.625Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="wOiIMmSr-FECP_ahjAUW" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-13T20:35:33.800Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="3O7jQZ3mLcyweRuCdyCO" version="17.4.3" type="github" pages="2">
   <diagram id="fg8G_HbYu1XNKWGtt3aK" name="Page-1">
-    <mxGraphModel dx="2641" dy="1073" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3824" dy="1638" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,9 +79,6 @@
           <mxGeometry x="-304" y="108" width="157" height="116" as="geometry" />
         </mxCell>
         <mxCell id="rOmu-mYObD1fUd7PL2Br-4" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#736CA8;strokeWidth=2;" parent="1" source="DNS5B0SiAWETWI9drjSc-16" target="rOmu-mYObD1fUd7PL2Br-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AIzEjXmdXuVRKP8MCq6_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rOmu-mYObD1fUd7PL2Br-7" target="AIzEjXmdXuVRKP8MCq6_-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rOmu-mYObD1fUd7PL2Br-7" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Delivers the product to Ciara&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" parent="1" vertex="1">
@@ -203,9 +200,6 @@
         </mxCell>
         <mxCell id="rOmu-mYObD1fUd7PL2Br-61" value="&lt;b&gt;SaaS Platforms&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=48;fontFamily=Helvetica;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="4252" y="-247" width="407" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="AIzEjXmdXuVRKP8MCq6_-1" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Delivers the product to Ciara&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="170" y="108" width="157" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
