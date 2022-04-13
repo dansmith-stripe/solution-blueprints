@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T18:49:21.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="3FyAzT1MnN-khRWkzKV5" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T19:07:31.743Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="5Qgsi3YPETe8V0A9lhOv" version="17.4.3" type="github">
   <diagram id="wdWQQPXWfl0agiIsyt4c" name="Page-1">
-    <mxGraphModel dx="1750.32" dy="660.84" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5653" dy="2483" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,8 +170,14 @@
         <mxCell id="zUnHG5o_l_45naBGgddC-11" value="Contact Center&lt;br&gt;[Salesforce, ...]&lt;br&gt;&lt;br&gt;Contacts various business prospects with the objective of signing them up as a customer" style="whiteSpace=wrap;html=1;fillColor=#6B6477;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-900" y="1842" width="174" height="191" as="geometry" />
         </mxCell>
+        <mxCell id="zUnHG5o_l_45naBGgddC-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;strokeWidth=3;" edge="1" parent="1" source="zUnHG5o_l_45naBGgddC-13" target="zUnHG5o_l_45naBGgddC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zUnHG5o_l_45naBGgddC-13" value="Sales Team&lt;br&gt;[Employees of merchant]&lt;br&gt;&lt;br&gt;Working with businesses to sell services/products" style="whiteSpace=wrap;html=1;fillColor=#6B6477;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-903.93" y="2082" width="174" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="zUnHG5o_l_45naBGgddC-38" value="" style="whiteSpace=wrap;html=1;fillColor=#6B6477;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-622.93" y="2147.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
