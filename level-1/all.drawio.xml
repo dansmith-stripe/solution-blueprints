@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T19:46:57.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="-Frey1IQ7t9-l5YXm4F_" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-14T19:47:41.834Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="gd-IjX0Gn3Eoi_h4nbdw" version="17.4.3" type="github" pages="2">
   <diagram id="fg8G_HbYu1XNKWGtt3aK" name="Page-1">
-    <mxGraphModel dx="10887" dy="4887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4833" dy="2083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1735,7 +1735,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-249" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - SaaS Platform quickly onboard new sellers&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="3950" y="270" width="610" height="70" as="geometry" />
+          <mxGeometry x="3800" y="276" width="610" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-250" value="&lt;h2&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Level 1 - SaaS Platforms - Personal Experience&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="3815" y="-180" width="820" height="90" as="geometry" />
@@ -1744,10 +1744,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-252" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;A SaaS Platform wants to offer payment to increase their value&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4040" y="110" width="170" height="120" as="geometry" />
+          <mxGeometry x="3890" y="116" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-253" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4095" y="30" width="60" height="62" as="geometry" />
+          <mxGeometry x="3945" y="36" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-254" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-253">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -1759,19 +1759,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-257" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;They analyze the risk they want to take on and the experience they want to provide&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4280" y="110" width="170" height="120" as="geometry" />
+          <mxGeometry x="4130" y="116" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-258" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-259" target="om_S2KBFpMSKjHL1VzjS-260">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-259" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;For risk, they decide not to be liable for products and services their merchants sell&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4520" y="110" width="170" height="120" as="geometry" />
+          <mxGeometry x="4370" y="116" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-260" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;For experience, they decide not to white label the whole experience and leverage the Stripe Dashboard&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4760" y="110" width="170" height="120" as="geometry" />
+          <mxGeometry x="4610" y="116" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-261" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4335" y="30" width="60" height="62" as="geometry" />
+          <mxGeometry x="4185" y="36" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-262" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-261">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -1780,7 +1780,7 @@
           <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-264" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4575" y="30" width="60" height="62" as="geometry" />
+          <mxGeometry x="4425" y="36" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-265" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-264">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -1789,7 +1789,7 @@
           <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-267" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4815" y="30" width="60" height="62" as="geometry" />
+          <mxGeometry x="4665" y="36" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-268" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-267">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -1798,16 +1798,16 @@
           <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-270" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - The SaaS Platform decides on how much risk to take on&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="3950" y="-50" width="760" height="70" as="geometry" />
+          <mxGeometry x="3800" y="-44" width="760" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-272" target="om_S2KBFpMSKjHL1VzjS-277">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-272" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Creates an eCommerce platform to allow golf shops to manage tee times and take payment online and in person&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4040" y="430" width="170" height="120" as="geometry" />
+          <mxGeometry x="3890" y="436" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-273" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4095" y="352" width="60" height="62" as="geometry" />
+          <mxGeometry x="3945" y="358" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-274" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-273">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -1819,37 +1819,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-277" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;The SaaS Platform leverages Stripe to add invoicing, subscription and payment processing&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4280" y="430" width="170" height="120" as="geometry" />
+          <mxGeometry x="4130" y="436" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-278" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-279" target="om_S2KBFpMSKjHL1VzjS-281">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-279" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;A golf course is looking for a more efficient way to manage their business and get more customers&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4520" y="430" width="170" height="120" as="geometry" />
+          <mxGeometry x="4370" y="436" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-280" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-281" target="om_S2KBFpMSKjHL1VzjS-283">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-281" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Golf course uses the Saas Platform to manage all aspects of their business&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4760" y="430" width="170" height="120" as="geometry" />
+          <mxGeometry x="4610" y="436" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-282" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-283" target="om_S2KBFpMSKjHL1VzjS-285">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-283" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Golf course select the features they want including shopping cart, invoices and POS&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5000" y="430" width="170" height="120" as="geometry" />
+          <mxGeometry x="4850" y="436" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-284" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-285" target="om_S2KBFpMSKjHL1VzjS-286">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-285" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Golf course sets up his products with associated tax code and his customers&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5240" y="430" width="170" height="120" as="geometry" />
+          <mxGeometry x="5090" y="436" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-286" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Golf course enables different payment methods and selects VISA, KLarna and iDeal&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5480" y="430" width="170" height="120" as="geometry" />
+          <mxGeometry x="5330" y="436" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-287" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4335" y="354" width="60" height="62" as="geometry" />
+          <mxGeometry x="4185" y="360" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-288" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-287">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -1858,7 +1858,7 @@
           <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-290" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="5300" y="344" width="50" height="70" as="geometry" />
+          <mxGeometry x="5150" y="350" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-291" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-290">
           <mxGeometry width="50" height="50" as="geometry" />
@@ -1867,7 +1867,7 @@
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-293" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="5540" y="346" width="50" height="70" as="geometry" />
+          <mxGeometry x="5390" y="352" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-294" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-293">
           <mxGeometry width="50" height="50" as="geometry" />
@@ -1876,55 +1876,55 @@
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-296" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - Buyer purchases good from seller and SaaS Platform receives revenue share&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="3955" y="590" width="1000" height="70" as="geometry" />
+          <mxGeometry x="3805" y="596" width="1000" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-297" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-298" target="om_S2KBFpMSKjHL1VzjS-300">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-298" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Looking to purchase products or services&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4040" y="750" width="170" height="120" as="geometry" />
+          <mxGeometry x="3890" y="756" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-299" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-300" target="om_S2KBFpMSKjHL1VzjS-302">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-300" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Goes to seller&#39;s website and selects the desired product&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4280" y="750" width="170" height="120" as="geometry" />
+          <mxGeometry x="4130" y="756" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-301" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-302" target="om_S2KBFpMSKjHL1VzjS-304">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-302" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;The items are added to the shopping cart and based on the consumer location, the taxes are calculated automatically&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4520" y="750" width="170" height="120" as="geometry" />
+          <mxGeometry x="4370" y="756" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-303" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-304" target="om_S2KBFpMSKjHL1VzjS-306">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-304" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;The preferred payment method is displayed based on consumer location and consumer selects to pay by VISA&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4760" y="750" width="170" height="120" as="geometry" />
+          <mxGeometry x="4610" y="756" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-305" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-306" target="om_S2KBFpMSKjHL1VzjS-308">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-306" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Based on the items purchased, revenue recognition is calculated automatically&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5000" y="750" width="170" height="120" as="geometry" />
+          <mxGeometry x="4850" y="756" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-307" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-308" target="om_S2KBFpMSKjHL1VzjS-310">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-308" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;The details of the purchase are added automatically to the seller&#39;s ERP system&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5240" y="750" width="170" height="120" as="geometry" />
+          <mxGeometry x="5090" y="756" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-309" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-310" target="om_S2KBFpMSKjHL1VzjS-311">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-310" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;At the end of the month, the taxes are submitted to the appropriate government&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5480" y="750" width="170" height="120" as="geometry" />
+          <mxGeometry x="5330" y="756" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-311" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;The SaaS Platform generates revenue for every transaction processed through revenue share with Stripe&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5720" y="750" width="170" height="120" as="geometry" />
+          <mxGeometry x="5570" y="756" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-312" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="4090" y="670" width="60" height="60" as="geometry" />
+          <mxGeometry x="3940" y="676" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-313" value="&lt;font color=&quot;#000000&quot;&gt;Buyer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#FFFFFF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-312">
           <mxGeometry x="10" y="50" width="50" height="20" as="geometry" />
@@ -1933,7 +1933,7 @@
           <mxGeometry width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-315" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="4580" y="344" width="50" height="70" as="geometry" />
+          <mxGeometry x="4430" y="350" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-316" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-315">
           <mxGeometry width="50" height="50" as="geometry" />
@@ -1945,7 +1945,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-319" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="4820" y="344" width="50" height="70" as="geometry" />
+          <mxGeometry x="4670" y="350" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-320" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-319">
           <mxGeometry width="50" height="50" as="geometry" />
@@ -1954,7 +1954,7 @@
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-322" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="5060" y="346" width="50" height="70" as="geometry" />
+          <mxGeometry x="4910" y="352" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-323" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-322">
           <mxGeometry width="50" height="50" as="geometry" />
@@ -1963,7 +1963,7 @@
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-325" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="4330" y="670" width="60" height="60" as="geometry" />
+          <mxGeometry x="4180" y="676" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-326" value="&lt;font color=&quot;#000000&quot;&gt;Buyer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#FFFFFF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-325">
           <mxGeometry x="10" y="50" width="50" height="20" as="geometry" />
@@ -1972,7 +1972,7 @@
           <mxGeometry width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-328" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="4570" y="670" width="60" height="60" as="geometry" />
+          <mxGeometry x="4420" y="676" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-329" value="&lt;font color=&quot;#000000&quot;&gt;Buyer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#FFFFFF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-328">
           <mxGeometry x="10" y="50" width="50" height="20" as="geometry" />
@@ -1981,7 +1981,7 @@
           <mxGeometry width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-331" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="4810" y="670" width="60" height="60" as="geometry" />
+          <mxGeometry x="4660" y="676" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-332" value="&lt;font color=&quot;#000000&quot;&gt;Buyer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#FFFFFF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-331">
           <mxGeometry x="10" y="50" width="50" height="20" as="geometry" />
@@ -1990,7 +1990,7 @@
           <mxGeometry width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-334" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="5060" y="665" width="50" height="70" as="geometry" />
+          <mxGeometry x="4910" y="671" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-335" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-334">
           <mxGeometry width="50" height="50" as="geometry" />
@@ -1999,7 +1999,7 @@
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-337" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="5300" y="665" width="50" height="70" as="geometry" />
+          <mxGeometry x="5150" y="671" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-338" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-337">
           <mxGeometry width="50" height="50" as="geometry" />
@@ -2008,7 +2008,7 @@
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-340" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="5540" y="665" width="50" height="70" as="geometry" />
+          <mxGeometry x="5390" y="671" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-341" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-340">
           <mxGeometry width="50" height="50" as="geometry" />
@@ -2017,7 +2017,7 @@
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-343" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="5775" y="673" width="60" height="62" as="geometry" />
+          <mxGeometry x="5625" y="679" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-344" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-343">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -2026,25 +2026,25 @@
           <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-346" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - SaaS Platform generating revenue by adding services such as subscription&amp;nbsp;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="3960" y="910" width="990" height="70" as="geometry" />
+          <mxGeometry x="3810" y="916" width="990" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-347" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-348" target="om_S2KBFpMSKjHL1VzjS-350">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-348" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;SaaS Platform is looking to increase revenue&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4040" y="1070" width="170" height="120" as="geometry" />
+          <mxGeometry x="3890" y="1076" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-349" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-350" target="om_S2KBFpMSKjHL1VzjS-351">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-350" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;SaaS Platform adds new services such as Stripe Subscription to increase options for their sellers&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4280" y="1070" width="170" height="120" as="geometry" />
+          <mxGeometry x="4130" y="1076" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-351" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;SaaS Platform revenue increases with sellers signing up to leverage subscriptions&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4520" y="1070" width="170" height="120" as="geometry" />
+          <mxGeometry x="4370" y="1076" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-352" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4095" y="990" width="60" height="62" as="geometry" />
+          <mxGeometry x="3945" y="996" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-353" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-352">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -2053,7 +2053,7 @@
           <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-355" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4340" y="990" width="60" height="62" as="geometry" />
+          <mxGeometry x="4190" y="996" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-356" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-355">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -2062,7 +2062,7 @@
           <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-358" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4580" y="990" width="60" height="62" as="geometry" />
+          <mxGeometry x="4430" y="996" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-359" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-358">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -2071,43 +2071,43 @@
           <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-361" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - SaaS Platform generates revenue by issuing credit cards&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="3990" y="1230" width="770" height="70" as="geometry" />
+          <mxGeometry x="3840" y="1236" width="770" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-362" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-363" target="om_S2KBFpMSKjHL1VzjS-365">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-363" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;An employee for the seller needs to purchase goods for the business&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4040" y="1390" width="170" height="120" as="geometry" />
+          <mxGeometry x="3890" y="1396" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-364" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-365" target="om_S2KBFpMSKjHL1VzjS-367">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-365" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Issues a branded credit card allowing the employee&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4280" y="1390" width="170" height="120" as="geometry" />
+          <mxGeometry x="4130" y="1396" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-366" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-367" target="om_S2KBFpMSKjHL1VzjS-369">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-367" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Creates rules to define the type of stores the card can be used at&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4520" y="1390" width="170" height="120" as="geometry" />
+          <mxGeometry x="4370" y="1396" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-368" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-369" target="om_S2KBFpMSKjHL1VzjS-371">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-369" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Purchases items on the company credit card&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4760" y="1390" width="170" height="120" as="geometry" />
+          <mxGeometry x="4610" y="1396" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-370" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-371" target="om_S2KBFpMSKjHL1VzjS-372">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-371" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Has visibility to items purchased and also received money as reward for the purchases&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5000" y="1390" width="170" height="120" as="geometry" />
+          <mxGeometry x="4850" y="1396" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-372" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;The Saas Platform generates revenue every time an issued credit card is used for a purchase&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5240" y="1390" width="170" height="120" as="geometry" />
+          <mxGeometry x="5090" y="1396" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-373" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="5300" y="1310" width="60" height="62" as="geometry" />
+          <mxGeometry x="5150" y="1316" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-374" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-373">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -2116,7 +2116,7 @@
           <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-376" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="4340" y="1306" width="50" height="70" as="geometry" />
+          <mxGeometry x="4190" y="1312" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-377" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-376">
           <mxGeometry width="50" height="50" as="geometry" />
@@ -2125,7 +2125,7 @@
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-379" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="4580" y="1306" width="50" height="70" as="geometry" />
+          <mxGeometry x="4430" y="1312" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-380" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-379">
           <mxGeometry width="50" height="50" as="geometry" />
@@ -2134,7 +2134,7 @@
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-382" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="4820" y="1306" width="50" height="70" as="geometry" />
+          <mxGeometry x="4670" y="1312" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-383" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-382">
           <mxGeometry width="50" height="50" as="geometry" />
@@ -2143,7 +2143,7 @@
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-385" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="5060" y="1306" width="50" height="70" as="geometry" />
+          <mxGeometry x="4910" y="1312" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-386" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-385">
           <mxGeometry width="50" height="50" as="geometry" />
@@ -2152,7 +2152,7 @@
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-388" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="4100" y="1306" width="50" height="70" as="geometry" />
+          <mxGeometry x="3950" y="1312" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-389" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-388">
           <mxGeometry width="50" height="50" as="geometry" />
@@ -2161,31 +2161,31 @@
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-391" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - SaaS Platform generating revenue by providing loans&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="3990" y="1550" width="730" height="70" as="geometry" />
+          <mxGeometry x="3840" y="1556" width="730" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-392" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-393" target="om_S2KBFpMSKjHL1VzjS-395">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-393" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;SaaS Platform expands offering by leveraging Financial Services&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4040" y="1710" width="170" height="120" as="geometry" />
+          <mxGeometry x="3890" y="1716" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-394" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-395" target="om_S2KBFpMSKjHL1VzjS-397">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-395" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;As a first service, the SaaS Platform starts to offer loans to their sellers&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4280" y="1710" width="170" height="120" as="geometry" />
+          <mxGeometry x="4130" y="1716" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-396" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="om_S2KBFpMSKjHL1VzjS-397" target="om_S2KBFpMSKjHL1VzjS-398">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-397" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Signs up for loan to accelerate the growth of their business&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4520" y="1710" width="170" height="120" as="geometry" />
+          <mxGeometry x="4370" y="1716" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-398" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;SaaSs increases revenue by increased processing but also revenues linked to loans&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4760" y="1710" width="170" height="120" as="geometry" />
+          <mxGeometry x="4610" y="1716" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-399" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4095" y="1634" width="60" height="62" as="geometry" />
+          <mxGeometry x="3945" y="1640" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-400" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-399">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -2194,7 +2194,7 @@
           <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-402" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4335" y="1634" width="60" height="62" as="geometry" />
+          <mxGeometry x="4185" y="1640" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-403" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-402">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -2203,7 +2203,7 @@
           <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-405" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4820" y="1634" width="60" height="62" as="geometry" />
+          <mxGeometry x="4670" y="1640" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-406" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-405">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
@@ -2212,7 +2212,7 @@
           <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-408" value="" style="group;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="4580" y="1626" width="50" height="70" as="geometry" />
+          <mxGeometry x="4430" y="1632" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-409" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-408">
           <mxGeometry width="50" height="50" as="geometry" />
