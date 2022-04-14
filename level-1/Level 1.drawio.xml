@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T15:36:16.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="N-at5eCh97_BgT2oZSeW" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-14T15:38:17.071Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="W5TkvYP6uCn62slOYIkp" version="17.4.3" type="github" pages="2">
   <diagram id="fg8G_HbYu1XNKWGtt3aK" name="Page-1">
     <mxGraphModel dx="3638" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -763,16 +763,19 @@
         <mxCell id="5i8R69pNBjXEWtyUHOTq-611" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=48;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-612" target="5i8R69pNBjXEWtyUHOTq-614">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-612" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;At the end of the month, the taxes are submitted to the appropriate government&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-612" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Utilize BI/CPM tools to analyze the data&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="-765" y="2930" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-613" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=48;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-614" target="5i8R69pNBjXEWtyUHOTq-615">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-614" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;At the end of the month, the taxes are submitted to the appropriate government&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-614" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Provide reports to internal and external stakeholder (Churn, ARR, MRR etc., CAC)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="-515" y="2930" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-615" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;At the end of the month, the taxes are submitted to the appropriate government&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-686" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=48;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-615" target="5i8R69pNBjXEWtyUHOTq-685">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-615" value="&lt;font color=&quot;#e6e6e6&quot;&gt;Analyze product&amp;nbsp;usage patterns&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="-265" y="2930" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-616" value="" style="group;labelBackgroundColor=none;fontSize=48;fillColor=none;spacingTop=5;spacing=0;spacingBottom=5;spacingRight=5;spacingLeft=5;" connectable="0" vertex="1" parent="1">
@@ -975,6 +978,18 @@
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-679" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - The Account Executives are compensated for their sales&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-1021" y="3840" width="760" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-685" value="&lt;font color=&quot;#e6e6e6&quot;&gt;Run targeted campaigns to users and enterprises&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="2930" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-687" value="" style="group;labelBackgroundColor=none;fontSize=48;fillColor=none;spacingTop=5;spacing=0;spacingBottom=5;spacingRight=5;spacingLeft=5;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="41" y="2860" width="65" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-688" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;spacingTop=5;spacing=0;spacingBottom=5;spacingRight=5;spacingLeft=5;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-687">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-689" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-687">
+          <mxGeometry x="-5" y="45" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
