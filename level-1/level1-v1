@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T15:04:13.996Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="orioL-yITVSUU-8fF4hE" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T15:13:32.980Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="zwwOI3Ax6ZtBbcVNOdVe" version="17.4.4" type="github">
   <diagram id="Z82_Y5JCfXAyFW9VIOIb" name="Page-1">
     <mxGraphModel dx="1753" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -226,28 +226,28 @@
         <mxCell id="xmct7pkiBruAyuhI33cj-87" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - Buyer purchases good from seller and SaaS Platform receives revenue share&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1140" width="1000" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xmct7pkiBruAyuhI33cj-88" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Creates an eCommerce platform to allow golf shops to manage tee times and take payment online and in person&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="xmct7pkiBruAyuhI33cj-88" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Looking to purchase products or services&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="1280" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xmct7pkiBruAyuhI33cj-89" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Creates an eCommerce platform to allow golf shops to manage tee times and take payment online and in person&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="xmct7pkiBruAyuhI33cj-89" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Goes to seller&#39;s website and selects the desired product&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="1280" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xmct7pkiBruAyuhI33cj-90" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Creates an eCommerce platform to allow golf shops to manage tee times and take payment online and in person&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="xmct7pkiBruAyuhI33cj-90" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;The items are added to the shopping cart and based on the consumer location, the taxes are calculated automatically&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="640" y="1280" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xmct7pkiBruAyuhI33cj-91" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Creates an eCommerce platform to allow golf shops to manage tee times and take payment online and in person&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="xmct7pkiBruAyuhI33cj-91" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;The preferred payment method is displayed based on consumer location and consumer selects to pay by VISA&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="880" y="1280" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xmct7pkiBruAyuhI33cj-92" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Creates an eCommerce platform to allow golf shops to manage tee times and take payment online and in person&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="xmct7pkiBruAyuhI33cj-92" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Based on the items purchased, revenue recognition is calculated automatically&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1280" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xmct7pkiBruAyuhI33cj-93" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Creates an eCommerce platform to allow golf shops to manage tee times and take payment online and in person&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="xmct7pkiBruAyuhI33cj-93" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;The details of the purchase are added automatically to the seller&#39;s ERP system&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1280" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xmct7pkiBruAyuhI33cj-94" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Creates an eCommerce platform to allow golf shops to manage tee times and take payment online and in person&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="xmct7pkiBruAyuhI33cj-94" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;At the end of the month, the taxes are submitted to the appropriate government&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="1600" y="1280" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xmct7pkiBruAyuhI33cj-95" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Creates an eCommerce platform to allow golf shops to manage tee times and take payment online and in person&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="xmct7pkiBruAyuhI33cj-95" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;The SaaS Platform generates revenue for every transaction processed through revenue share with Stripe&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1280" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-98" value="" style="group;" connectable="0" vertex="1" parent="1">
@@ -288,6 +288,69 @@
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-120" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="xmct7pkiBruAyuhI33cj-118">
           <mxGeometry y="50" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-123" value="" style="group;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="450" y="1200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-124" value="&lt;font color=&quot;#000000&quot;&gt;Buyer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#FFFFFF;" vertex="1" parent="xmct7pkiBruAyuhI33cj-123">
+          <mxGeometry x="10" y="50" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-125" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_128x128.png;fontFamily=Helvetica;fontSize=10;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;" vertex="1" parent="xmct7pkiBruAyuhI33cj-123">
+          <mxGeometry width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-126" value="" style="group;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="700" y="1200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-127" value="&lt;font color=&quot;#000000&quot;&gt;Buyer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#FFFFFF;" vertex="1" parent="xmct7pkiBruAyuhI33cj-126">
+          <mxGeometry x="10" y="50" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-128" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_128x128.png;fontFamily=Helvetica;fontSize=10;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;" vertex="1" parent="xmct7pkiBruAyuhI33cj-126">
+          <mxGeometry width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-129" value="" style="group;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="930" y="1200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-130" value="&lt;font color=&quot;#000000&quot;&gt;Buyer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#FFFFFF;" vertex="1" parent="xmct7pkiBruAyuhI33cj-129">
+          <mxGeometry x="10" y="50" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-131" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_128x128.png;fontFamily=Helvetica;fontSize=10;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;" vertex="1" parent="xmct7pkiBruAyuhI33cj-129">
+          <mxGeometry width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-132" value="" style="group;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1195" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-133" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="xmct7pkiBruAyuhI33cj-132">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-134" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="xmct7pkiBruAyuhI33cj-132">
+          <mxGeometry y="50" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-136" value="" style="group;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1195" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-137" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="xmct7pkiBruAyuhI33cj-136">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-138" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="xmct7pkiBruAyuhI33cj-136">
+          <mxGeometry y="50" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-139" value="" style="group;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1195" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-140" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="xmct7pkiBruAyuhI33cj-139">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-141" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="xmct7pkiBruAyuhI33cj-139">
+          <mxGeometry y="50" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-142" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1895" y="1203" width="60" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-143" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="xmct7pkiBruAyuhI33cj-142">
+          <mxGeometry x="5" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-144" value="Platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xmct7pkiBruAyuhI33cj-142">
+          <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
