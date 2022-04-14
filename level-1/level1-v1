@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T15:13:32.980Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="zwwOI3Ax6ZtBbcVNOdVe" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T15:23:34.266Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="5kgEzPzG7Px1fP9_o47R" version="17.4.4" type="github">
   <diagram id="Z82_Y5JCfXAyFW9VIOIb" name="Page-1">
-    <mxGraphModel dx="1753" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xmct7pkiBruAyuhI33cj-49" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - SaaS Platform quickly onboard new sellers&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="75" y="810" width="610" height="70" as="geometry" />
+          <mxGeometry x="75" y="800" width="610" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-1" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - SaaS Platforms - Personal Experience&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="105" y="170" width="550" height="70" as="geometry" />
@@ -224,7 +224,7 @@
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-87" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - Buyer purchases good from seller and SaaS Platform receives revenue share&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1140" width="1000" height="70" as="geometry" />
+          <mxGeometry x="75" y="1120" width="1000" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-88" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Looking to purchase products or services&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="1280" width="170" height="120" as="geometry" />
@@ -350,6 +350,45 @@
           <mxGeometry x="5" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-144" value="Platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xmct7pkiBruAyuhI33cj-142">
+          <mxGeometry y="42" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-145" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - SaaS Platform generating revenue by adding services such as subscription&amp;nbsp;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1440" width="990" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-146" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;SaaS Platform is looking to increase revenue&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1600" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-147" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;SaaS Platform adds new services such as Stripe Subscription to increase options for their sellers&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1600" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-148" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;SaaS Platform revenue increases with sellers signing up to leverage subscriptions&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1600" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-150" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="215" y="1520" width="60" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-151" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="xmct7pkiBruAyuhI33cj-150">
+          <mxGeometry x="5" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-152" value="Platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xmct7pkiBruAyuhI33cj-150">
+          <mxGeometry y="42" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-153" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="1520" width="60" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-154" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="xmct7pkiBruAyuhI33cj-153">
+          <mxGeometry x="5" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-155" value="Platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xmct7pkiBruAyuhI33cj-153">
+          <mxGeometry y="42" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-156" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="700" y="1520" width="60" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-157" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="xmct7pkiBruAyuhI33cj-156">
+          <mxGeometry x="5" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-158" value="Platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xmct7pkiBruAyuhI33cj-156">
           <mxGeometry y="42" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
