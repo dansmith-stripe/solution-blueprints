@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T14:19:01.436Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="F-PjMxNkLkRSOxCKHX_O" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T14:35:53.406Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="huiaF4Ox6_ZFdZjwLAJ6" version="17.4.4" type="github">
   <diagram id="Z82_Y5JCfXAyFW9VIOIb" name="Page-1">
-    <mxGraphModel dx="953" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1353" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xmct7pkiBruAyuhI33cj-1" value="&lt;h2 style=&quot;font-size: 24px;&quot;&gt;Level 1 - A buyer modifies their subscription&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="120" y="170" width="520" height="70" as="geometry" />
+        <mxCell id="xmct7pkiBruAyuhI33cj-1" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - SaaS Platforms - Personal Experience&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="105" y="170" width="550" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-2" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xmct7pkiBruAyuhI33cj-6" target="xmct7pkiBruAyuhI33cj-10">
           <mxGeometry relative="1" as="geometry">
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-6" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Decides to choose a different plan/service in the middle of subscription&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="140" y="340" width="170" height="120" as="geometry" />
+          <mxGeometry x="150" y="340" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-7" value="" style="group;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="190" y="270" width="60" height="60" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-10" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Goes to the merchant website and upgrades/downgrades or changes the plan&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="375" y="340" width="170" height="120" as="geometry" />
+          <mxGeometry x="385" y="340" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-11" value="" style="group;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="430" y="270" width="60" height="60" as="geometry" />
@@ -85,17 +85,65 @@
         <mxCell id="xmct7pkiBruAyuhI33cj-25" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Accounting Department makes revenue recognition adjustments in the accounting system&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="1080" y="340" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xmct7pkiBruAyuhI33cj-26" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;A Saas&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
-          <mxGeometry x="140" y="620" width="170" height="120" as="geometry" />
+        <mxCell id="xmct7pkiBruAyuhI33cj-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="xmct7pkiBruAyuhI33cj-26" target="xmct7pkiBruAyuhI33cj-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-26" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;A SaaS Platform wants to offer payment to increase their value&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-30" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="195" y="550" width="60" height="62" as="geometry" />
+          <mxGeometry x="215" y="550" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-28" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="xmct7pkiBruAyuhI33cj-30">
           <mxGeometry x="5" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="xmct7pkiBruAyuhI33cj-29" value="Platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xmct7pkiBruAyuhI33cj-30">
           <mxGeometry y="42" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="xmct7pkiBruAyuhI33cj-31" target="xmct7pkiBruAyuhI33cj-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-31" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;They analyze the risk they want to take on and the experience they want to provide&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="620" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="xmct7pkiBruAyuhI33cj-33" target="xmct7pkiBruAyuhI33cj-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-33" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;For risk, they decide not to be liable for products and services their merchants sell&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+          <mxGeometry x="645" y="620" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-35" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;For experience, they decide not to white label the whole experience and leverage the Stripe Dashboard&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
+          <mxGeometry x="880" y="620" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="455" y="550" width="60" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-40" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="xmct7pkiBruAyuhI33cj-39">
+          <mxGeometry x="5" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-41" value="Platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xmct7pkiBruAyuhI33cj-39">
+          <mxGeometry y="42" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="690" y="550" width="60" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-43" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="xmct7pkiBruAyuhI33cj-42">
+          <mxGeometry x="5" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-44" value="Platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xmct7pkiBruAyuhI33cj-42">
+          <mxGeometry y="42" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="935" y="550" width="60" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-46" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="xmct7pkiBruAyuhI33cj-45">
+          <mxGeometry x="5" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-47" value="Platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xmct7pkiBruAyuhI33cj-45">
+          <mxGeometry y="42" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmct7pkiBruAyuhI33cj-48" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - SaaS Platform decided on how much risk to take&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="670" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
