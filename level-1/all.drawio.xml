@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T19:46:42.729Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="P6zI1cIVUtuyusEY0Wy3" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-14T19:46:57.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="-Frey1IQ7t9-l5YXm4F_" version="17.4.3" type="github" pages="2">
   <diagram id="fg8G_HbYu1XNKWGtt3aK" name="Page-1">
     <mxGraphModel dx="10887" dy="4887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2219,9 +2219,6 @@
         </mxCell>
         <mxCell id="om_S2KBFpMSKjHL1VzjS-410" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="om_S2KBFpMSKjHL1VzjS-408">
           <mxGeometry y="50" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="om_S2KBFpMSKjHL1VzjS-411" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=36;" edge="1" parent="1" source="rOmu-mYObD1fUd7PL2Br-61" target="rOmu-mYObD1fUd7PL2Br-61">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
