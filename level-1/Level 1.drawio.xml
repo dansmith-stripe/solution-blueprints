@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T22:16:31.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Zm-Ra65wrnhRfSZOc2Mp" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-14T15:20:36.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="IfBuwfgt49Z1yYzdhEtA" version="17.4.3" type="github" pages="2">
   <diagram id="fg8G_HbYu1XNKWGtt3aK" name="Page-1">
-    <mxGraphModel dx="3175" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4303" dy="2178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,13 +75,13 @@
         <mxCell id="DNS5B0SiAWETWI9drjSc-23" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_128x128.png;fontFamily=Helvetica;fontSize=10;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;" parent="DNS5B0SiAWETWI9drjSc-21" vertex="1">
           <mxGeometry x="2.206896551724138" width="61.79310344827586" height="45.36708860759494" as="geometry" />
         </mxCell>
-        <mxCell id="rOmu-mYObD1fUd7PL2Br-3" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Receives the payment and the order for the product which is transferred to their ERP for processing&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" parent="1" vertex="1">
+        <mxCell id="rOmu-mYObD1fUd7PL2Br-3" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Receives the payment and the order for the product which is transferred to their ERP for processing&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;" parent="1" vertex="1">
           <mxGeometry x="-304" y="108" width="157" height="116" as="geometry" />
         </mxCell>
         <mxCell id="rOmu-mYObD1fUd7PL2Br-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#736CA8;strokeWidth=2;" parent="1" source="DNS5B0SiAWETWI9drjSc-16" target="rOmu-mYObD1fUd7PL2Br-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rOmu-mYObD1fUd7PL2Br-7" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Delivers the product to Ciara&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" parent="1" vertex="1">
+        <mxCell id="rOmu-mYObD1fUd7PL2Br-7" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Delivers the product to Ciara&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;" parent="1" vertex="1">
           <mxGeometry x="-67" y="108" width="157" height="116" as="geometry" />
         </mxCell>
         <mxCell id="rOmu-mYObD1fUd7PL2Br-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#736CA8;strokeWidth=2;" parent="1" source="rOmu-mYObD1fUd7PL2Br-3" target="rOmu-mYObD1fUd7PL2Br-7" edge="1">
@@ -195,7 +195,7 @@
         <mxCell id="rOmu-mYObD1fUd7PL2Br-56" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_128x128.png;fontFamily=Helvetica;fontSize=10;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;" parent="rOmu-mYObD1fUd7PL2Br-54" vertex="1">
           <mxGeometry x="2.206896551724138" width="61.79310344827586" height="45.36708860759494" as="geometry" />
         </mxCell>
-        <mxCell id="rOmu-mYObD1fUd7PL2Br-57" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Return requested initiation is triggered&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" parent="1" vertex="1">
+        <mxCell id="rOmu-mYObD1fUd7PL2Br-57" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Return requested initiation is triggered&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;" parent="1" vertex="1">
           <mxGeometry x="203" y="422" width="170" height="116" as="geometry" />
         </mxCell>
         <mxCell id="rOmu-mYObD1fUd7PL2Br-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=48;fontColor=#000000;strokeColor=#736CA8;strokeWidth=2;" parent="1" source="rOmu-mYObD1fUd7PL2Br-49" target="rOmu-mYObD1fUd7PL2Br-57" edge="1">
@@ -254,7 +254,7 @@
             <mxPoint x="-50" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-101" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;At the end of the month, the taxes are submitted to the appropriate government&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-101" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;At the end of the month, the taxes are submitted to the appropriate government&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="690" y="750" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-92" target="5i8R69pNBjXEWtyUHOTq-101">
@@ -269,7 +269,7 @@
         <mxCell id="5i8R69pNBjXEWtyUHOTq-91" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-89">
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-92" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Regular payment requested using payment method details stored by customer&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-92" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Regular payment requested using payment method details stored by customer&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="750" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-111" value="" style="group;" connectable="0" vertex="1" parent="1">
@@ -281,7 +281,7 @@
         <mxCell id="5i8R69pNBjXEWtyUHOTq-113" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-111">
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-86" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;The details of the purchase are added automatically to the merchant&#39;s Accounting system&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-86" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;The details of the purchase are added automatically to the merchant&#39;s Accounting system&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="210" y="750" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-86" target="5i8R69pNBjXEWtyUHOTq-92">
@@ -298,21 +298,6 @@
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-159" value="&lt;h2 style=&quot;font-size: 24px;&quot;&gt;Level 1 - A buyer modifies their subscription&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="950" width="520" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-361" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-50" y="680" width="170" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-18" value="" style="group;" connectable="0" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-361">
-          <mxGeometry x="60" width="50" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-18">
-          <mxGeometry width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-20" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-18">
-          <mxGeometry y="50" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-31" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Based on the products or services purchased, revenue recognition is calculated automatically&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-361">
-          <mxGeometry y="70" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-372" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-300" y="680" width="170" height="190" as="geometry" />
@@ -410,7 +395,7 @@
         <mxCell id="5i8R69pNBjXEWtyUHOTq-481" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=48;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-457" target="5i8R69pNBjXEWtyUHOTq-462">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-457" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Goes through the sales motion (3-bid-buy/RFx etc. and provides an agreeable quote)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-457" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Goes through the sales motion (3-bid-buy/RFx etc. and provides an agreeable quote)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="-547" y="1810" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-459" value="" style="group;labelBackgroundColor=none;fontSize=48;fillColor=none;spacingTop=5;spacing=0;spacingBottom=5;spacingRight=5;spacingLeft=5;" connectable="0" vertex="1" parent="1">
@@ -425,7 +410,7 @@
         <mxCell id="5i8R69pNBjXEWtyUHOTq-482" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=48;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-462" target="5i8R69pNBjXEWtyUHOTq-467">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-462" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;The subscription is setup in the backend system for the enterprise customer&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-462" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;The subscription is setup in the backend system for the enterprise customer&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="-320" y="1810" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-464" value="" style="group;labelBackgroundColor=none;fontSize=48;fillColor=none;spacingTop=5;spacing=0;spacingBottom=5;spacingRight=5;spacingLeft=5;" connectable="0" vertex="1" parent="1">
@@ -440,7 +425,7 @@
         <mxCell id="5i8R69pNBjXEWtyUHOTq-483" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=48;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-467" target="5i8R69pNBjXEWtyUHOTq-472">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-467" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Based on the items purchase, revenue recognition is calculated automatically&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-467" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Based on the items purchase, revenue recognition is calculated automatically&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="-93" y="1810" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-469" value="" style="group;labelBackgroundColor=none;fontSize=48;fillColor=none;spacingTop=5;spacing=0;spacingBottom=5;spacingRight=5;spacingLeft=5;" connectable="0" vertex="1" parent="1">
@@ -455,7 +440,7 @@
         <mxCell id="5i8R69pNBjXEWtyUHOTq-484" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=48;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-472" target="5i8R69pNBjXEWtyUHOTq-477">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-472" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;The details of the purchase are added automatically to the merchant&#39;s ERP system&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-472" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;The details of the purchase are added automatically to the merchant&#39;s ERP system&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="133" y="1810" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-474" value="" style="group;labelBackgroundColor=none;fontSize=48;fillColor=none;spacingTop=5;spacing=0;spacingBottom=5;spacingRight=5;spacingLeft=5;" connectable="0" vertex="1" parent="1">
@@ -467,7 +452,7 @@
         <mxCell id="5i8R69pNBjXEWtyUHOTq-476" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-474">
           <mxGeometry x="-5" y="45" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-477" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;At the end of the month, the taxes are submitted to the appropriate government&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-477" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;At the end of the month, the taxes are submitted to the appropriate government&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;labelBackgroundColor=none;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1810" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-420" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Is unhappy / does not require or found an alternative to the service&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
@@ -503,7 +488,7 @@
         <mxCell id="5i8R69pNBjXEWtyUHOTq-417" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-415">
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-418" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Automatically calculates the refund amount and applies it to the payment method of the consumer on record&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-418" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Automatically calculates the refund amount and applies it to the payment method of the consumer on record&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="-525" y="1461" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-431" value="" style="group;" connectable="0" vertex="1" parent="1">
@@ -515,7 +500,7 @@
         <mxCell id="5i8R69pNBjXEWtyUHOTq-433" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-431">
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-434" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Adjusts the revenue recognition and other accounting entries as required&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-434" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Adjusts the revenue recognition and other accounting entries as required&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="-285" y="1461" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-374" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Decides to choose a different plan/service in the middle of subscription&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;" vertex="1" parent="1">
@@ -551,7 +536,7 @@
         <mxCell id="5i8R69pNBjXEWtyUHOTq-365" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-363">
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-366" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Applies the new plan as selected by the consumer. Provides Credit adjustment for the already paid amount&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-366" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Applies the new plan as selected by the consumer. Provides Credit adjustment for the already paid amount&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="-540" y="1120" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-401" value="" style="group;" connectable="0" vertex="1" parent="1">
@@ -563,7 +548,7 @@
         <mxCell id="5i8R69pNBjXEWtyUHOTq-403" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-401">
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-404" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Shows a payment from to top-up if there is a difference&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-404" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Shows a payment from to top-up if there is a difference&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="-305" y="1120" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5i8R69pNBjXEWtyUHOTq-406" value="" style="group;" connectable="0" vertex="1" parent="1">
@@ -575,8 +560,73 @@
         <mxCell id="5i8R69pNBjXEWtyUHOTq-408" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-406">
           <mxGeometry y="50" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5i8R69pNBjXEWtyUHOTq-409" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Accounting Department makes revenue recognition adjustments in the accounting system&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#6666FF;textDirection=ltr;align=center;" vertex="1" parent="1">
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-409" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Accounting Department makes revenue recognition adjustments in the accounting system&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;" vertex="1" parent="1">
           <mxGeometry x="-70" y="1120" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-18" value="" style="group;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="10" y="680" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-20-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#E6E6E6;strokeColor=#D0CEE2;fillColor=#6666FF;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-18">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-20" value="&lt;font color=&quot;#000000&quot;&gt;Seller&lt;/font&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#E6E6E6;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-18">
+          <mxGeometry y="50" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-31" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#e6e6e6&quot;&gt;Based on the products or services purchased, revenue recognition is calculated automatically&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#0067CF;textDirection=ltr;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="750" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-487" value="&lt;h2 style=&quot;font-size: 24px&quot;&gt;Level 1 - Buyer visits physical store and purchases a subscription service and a product&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1039" y="2020" width="1020" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-488" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=48;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-489" target="5i8R69pNBjXEWtyUHOTq-494">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-489" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Visits physical store&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="2170" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-493" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=48;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-494">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-540" y="2230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-533" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=48;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-494" target="5i8R69pNBjXEWtyUHOTq-532">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-494" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Chooses to purchase a physical item with an associated subscription&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-763" y="2170" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-535" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=48;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-532" target="5i8R69pNBjXEWtyUHOTq-534">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-532" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Chooses to purchase a physical item with an associated subscription&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-513" y="2170" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-534" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#e6e6e6&quot;&gt;Chooses to purchase a physical item with an associated subscription&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;strokeColor=#D0CEE2;fillColor=#5D7F99;textDirection=ltr;align=center;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-263" y="2170" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-547" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-945" y="2090" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-491" value="&lt;font color=&quot;#000000&quot;&gt;Buyer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#FFFFFF;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-547">
+          <mxGeometry y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-492" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_128x128.png;fontFamily=Helvetica;fontSize=10;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;spacingTop=5;spacing=0;spacingBottom=5;spacingRight=5;spacingLeft=5;" vertex="1" parent="5i8R69pNBjXEWtyUHOTq-547">
+          <mxGeometry width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-561" value="&lt;font color=&quot;#000000&quot;&gt;Buyer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#FFFFFF;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="2140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-562" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_128x128.png;fontFamily=Helvetica;fontSize=10;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;spacingTop=5;spacing=0;spacingBottom=5;spacingRight=5;spacingLeft=5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="2090" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-563" value="&lt;font color=&quot;#000000&quot;&gt;Buyer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#FFFFFF;spacingTop=5;spacingLeft=5;spacingBottom=5;spacingRight=5;spacing=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="2140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-564" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Woman_128x128.png;fontFamily=Helvetica;fontSize=10;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;spacingTop=5;spacing=0;spacingBottom=5;spacingRight=5;spacingLeft=5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="2090" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5i8R69pNBjXEWtyUHOTq-565" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=48;" edge="1" parent="1" source="5i8R69pNBjXEWtyUHOTq-564" target="5i8R69pNBjXEWtyUHOTq-564">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
